@@ -1,0 +1,50 @@
+@media only screen and (max-width: 1368px){
+    /*//////// ////////*/
+
+}
+@media only screen and (max-width: 1026px){
+    /*//////// ////////*/
+    .homemobile{
+        display: block;
+    }
+    .home{
+        display: none;
+    }
+    
+}
+@media only screen and (max-width: 770px){
+    /*//////// ////////*/
+    .project_back{
+        padding-top: 15px;
+        padding-left: 25px;
+        padding-bottom: 50px;
+        font-size: 140%;
+    }
+    .project_email-back{
+        padding: 30px 0px 20px 20px;
+        font-size: 140%;
+    
+    }
+}
+@media only screen and (max-width: 451px){
+    /*//////// ////////*/
+    .homemobile_top-logo{
+        float: left;
+        width: 300px;
+        height: 89.33px;
+        margin: 20px calc(50% - 300px/2) 40px;
+    }
+}
+@media only screen and (max-width: 377px){
+    /*//////// ////////*/
+
+}
+
+/*
+
+
+Criar Terms e privacy
+
+criar email template
+
+*/
